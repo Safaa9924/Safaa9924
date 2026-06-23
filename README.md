@@ -6,7 +6,7 @@ I'm a Data Analyst with hands-on experience in Data Analytics, Business Intellig
 
 Through intensive programs including the Digital Egypt Pioneers Initiative (DEPI), Digilians Applied AI & Data Analytics Program, and AI Foundations Training at NTI, I have worked on real-world analytics and machine learning projects across multiple domains including e-commerce, hospitality, healthcare, and performance prediction.
 
-##  About Me
+## 🚀 About Me
 
 - Data Analyst passionate about solving business problems with data.
 - Applied AI learner with practical Machine Learning experience.
