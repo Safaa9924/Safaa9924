@@ -39,30 +39,11 @@ Now a **Data Analyst with applied AI experience**, from predictive models to LLM
 
 ## 🧰 Core Skills
 
-<div align="center">
-
-### 📊 Analytics & BI
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-6C63FF?style=for-the-badge)
-
-### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SHAP](https://img.shields.io/badge/Explainable%20AI%20(SHAP)-6C63FF?style=for-the-badge)
-
-### 🧠 LLM Systems
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8E7CFF?style=for-the-badge)
-![LLM Agents](https://img.shields.io/badge/LLM%20Agents-00C2FF?style=for-the-badge&logoColor=white)
-
-</div>
+| Area | Tools & Techniques |
+|:---|:---|
+| 📊 **Analytics & BI** | `SQL` · `Python (Pandas, NumPy)` · `Power BI` · `Tableau` · `Excel` · `EDA` |
+| 🤖 **Machine Learning** | `Scikit-learn` · `XGBoost` · `Deep Learning` · `Explainable AI (SHAP)` |
+| 🧠 **LLM Systems** | `LangGraph` · `RAG` · `LLM Agents` |
 
 ---
 
@@ -128,6 +109,26 @@ Now a **Data Analyst with applied AI experience**, from predictive models to LLM
 </td>
 </tr>
 </table>
+
+---
+
+## 🩺 Project Spotlight: GlucoGuide
+
+<div align="center">
+
+<a href="assets/GlucoGuide_Infographic.jpg">
+  <img src="assets/GlucoGuide_Infographic.jpg" alt="GlucoGuide – AI-Based Diabetes Prediction & Classification and Personalized Recommendation System (project infographic)" width="100%"/>
+</a>
+
+<sub>Click the image to view it in full size</sub>
+
+<br/>
+
+<a href="https://github.com/Safaa9924/Safaa9924/raw/main/assets/GlucoGuide_Infographic.jpg">
+  <img src="https://img.shields.io/badge/Download%20Infographic-2D3142?style=for-the-badge&logo=github&logoColor=white" alt="Download infographic" height="36"/>
+</a>
+
+</div>
 
 ---
 
