@@ -124,7 +124,7 @@ Now a **Data Analyst with applied AI experience**, from predictive models to LLM
 
 <br/>
 
-<a href="assets/GlucoGuide_Infographic.jpg?raw=true">
+<a href="assets/GlucoGuide_Infographic.zip?raw=true">
   <img src="https://img.shields.io/badge/Download%20Infographic-2D3142?style=for-the-badge&logo=github&logoColor=white" alt="Download infographic" height="36"/>
 </a>
 
