@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/Safaa9924/Safaa9924/raw/main/Safaa_Samy_CV.pdf">
+<a href="Safaa_Samy_CV.pdf?raw=true">
   <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%20DOWNLOAD%20MY%20CV%20(PDF)-6C63FF?style=for-the-badge&labelColor=1A1A2E" alt="Download CV PDF" height="48"/>
 </a>
 
@@ -124,7 +124,7 @@ Now a **Data Analyst with applied AI experience**, from predictive models to LLM
 
 <br/>
 
-<a href="https://github.com/Safaa9924/Safaa9924/raw/main/assets/GlucoGuide_Infographic.jpg">
+<a href="assets/GlucoGuide_Infographic.jpg?raw=true">
   <img src="https://img.shields.io/badge/Download%20Infographic-2D3142?style=for-the-badge&logo=github&logoColor=white" alt="Download infographic" height="36"/>
 </a>
 
@@ -185,7 +185,7 @@ Teaching literacy and basic math to older adults.
 
 Open to **Data Analyst** and **Applied AI** opportunities.
 
-<a href="https://github.com/Safaa9924/Safaa9924/raw/main/Safaa_Samy_CV.pdf">
+<a href="Safaa_Samy_CV.pdf?raw=true">
   <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%20DOWNLOAD%20MY%20CV%20(PDF)-6C63FF?style=for-the-badge&labelColor=1A1A2E" alt="Download CV PDF" height="44"/>
 </a>
 
